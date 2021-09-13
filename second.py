@@ -1,0 +1,6 @@
+print('i will count my chickens')
+print ('hens', 200+200)
+print(6%3)
+print('which is true', 3>2)
+print(7-9)
+print (6/2)

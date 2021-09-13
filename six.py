@@ -1,0 +1,7 @@
+print('what is your name')
+x = input()
+print('your name is %s'%x)
+print('enter two numbers')
+y = int(input())
+z = int(input())
+print(y+z)

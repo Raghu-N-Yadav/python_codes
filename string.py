@@ -1,0 +1,7 @@
+string = input('enter a string\t')
+print(string)
+print(string[2])
+print('last char is ', string[-1])
+print('now i will slice this string\n')
+print ('from 2 to 5\n', string[2:6])
+print('from 2 to sec last\n', string[2:-2])
