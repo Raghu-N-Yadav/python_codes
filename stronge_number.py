@@ -1,4 +1,4 @@
-#checking number is atrong or not
+#checking number is a strong or not
 #ex :32 is strong if 3! +2! = 32
 
 #function to calculate factorial
