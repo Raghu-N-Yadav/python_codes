@@ -15,11 +15,11 @@ Output:
 Print the required array
 '''
 
-T = int(input())
+T = int(input('Enter number of puts - '))
 i = 0
 while(i < T):
-    l,shift = input().split(' ')
-    x = input().split()
+    l,shift = input('enter length of arr & rotational parameter- ').split(' ')
+    x = input('enter Array values-').split()
     arr = [0]*len(x)
     for j in range(len(x)):
         indx = (int(shift)+j)%len(x)
